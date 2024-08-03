@@ -148,7 +148,7 @@ $(function () {
                             },
                             {
                                 schedule: {
-                                    img: imgpre + 'homdgcat-res/Mat/UI_NameCardIcon_Keqing.png',
+                                    img: imgpre + 'homdgcat-res/Mat/UI_NameCardIcon_Furina.png',
                                 },
                                 class: (I_TYPE == '6') ? 'active' : '',
                                 a: {
