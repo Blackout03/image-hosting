@@ -88,9 +88,9 @@ $(function () {
                                 },
                                 class: (I_TYPE == '11') ? 'active' : '',
                                 a: {
-                                    'data-id': '11',
-                                    'title': 'Profile Pictures'
-                                }
+                                    'data-id': '11'
+                                },
+                                'title': 'Profile Pictures'
                             },
                             {
                                 schedule: {
